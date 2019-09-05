@@ -8,60 +8,40 @@
 
 using namespace std;
 
-class Combo{
-private:
-    vector<int> data;
-public:
-    Combo(vector<int> data):data(data){
-    }
-
-    vector<int> getData(){
-        return data;
-    }
-
-    string toString(){
-        return ""+data[0] + data[1] + data[2];
-    }
-
-};
-
 class Solution {
+
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        unordered_map<string, bool> flag1;
-        unordered_map<int, int> flag2;
+        unordered_map<int, int> counter;
+
+        for(int i=0; i<nums.size(); i++)
+            counter[nums[i]] ++;
+
         vector<vector<int>> ret;
-        int i=0;
-        while(i < nums.size() && nums[i] <= 0){
-            for(int j = i+1; j < nums.size() && nums[j] <= -nums[i] ; j++){
-                int target = 0 - nums[i] - nums[j];
-                if(flag2.find(target) != flag2.end() || binarySearch(nums, target, j+1, nums.size()-1)){
-                    flag2[target] ++;
-                    Combo combo({nums[i], nums[j], target});
-                    if(flag1.find(combo.toString()) == flag1.end()) {
-                        ret.push_back(combo.getData());
-                        flag1[combo.toString()] = true;
-                    }
-                }
+        sort(nums.begin(), nums.end());
+        // 去除数组中重复的元素
+        vector<int>::iterator iter = unique(nums.begin(), nums.end());
+        nums.erase(iter, nums.end());
+
+        // 答案中三个数相同
+        if(counter[0] >= 3)
+            ret.push_back({0,0,0});
+
+        for(int i=0; i < nums.size(); i++){
+            for(int j=i+1; j < nums.size(); j++){
+                // 答案中两个数相同
+                if(nums[i] * 2 + nums[j] == 0 && counter[nums[i]] >= 2)
+                    ret.push_back({nums[i], nums[i], nums[j]});
+
+                if(nums[i] + nums[j] * 2 == 0 && counter[nums[j]] >= 2)
+                    ret.push_back({nums[i], nums[j], nums[j]});
+
+                // 此时如果有答案, 那么答案中的三个数一定不相等
+                int c = 0 - nums[i] - nums[j];
+                if(c > nums[j] && counter[c] > 0)
+                    ret.push_back({nums[i], nums[j], c});
             }
-            i++;
         }
         return ret;
-    }
-
-private:
-    bool binarySearch(vector<int>& vec, int target, int si, int ei){
-        int l = si, r = ei;
-        while(l <= r){
-            int mid = l + (r-l) / 2;
-            if(vec[mid] == target)
-                return true;
-            else if(vec[mid] < target)
-                l = mid + 1;
-            else
-                r = mid - 1;
-        }
-        return false;
     }
 };
