@@ -12,7 +12,7 @@
  *
  */
 #include <stack>
-#include "ListNode.h"
+#include "../0002_AddTwoNumbers/ListNode.h"
 
 class Solution {
 public:
@@ -41,7 +41,7 @@ public:
             newNode->next = node;
             node = newNode;
         }
-        // 此时有一个肯定为空, 选择另一个
+        // 此时有一个肯定为空, 所以我们只需要专注另一个stack
         stack<int>& s3 = s1.empty() ? s2 : s1;
         while(!s3.empty()){
             int i = s3.top() + flag;
@@ -55,7 +55,7 @@ public:
             newNode->next = node;
             node = newNode;
         }
-        //
+        // 最后如果进位
         if(flag){
             newNode = new ListNode(1);
             newNode->next = node;
