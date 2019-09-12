@@ -38,3 +38,21 @@ public:
         return ret;
     }
 };
+/// 更加简化
+//ListNode* merge(ListNode* l, ListNode* r){
+//    auto dummyHead = new ListNode(0);
+//    auto tail = dummyHead;
+//    while( l && r){
+//        if(l->val < r->val){
+//            tail->next = l;
+//            l = l->next;
+//        }else{
+//            tail->next = r;
+//            r = r->next;
+//        }
+//        tail = tail->next;
+//    }
+//    ListNode* remain = l ? l : r;
+//    tail->next = remain;
+//    return dummyHead->next;
+//}
