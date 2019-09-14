@@ -27,6 +27,11 @@ public:
  * while (i.hasNext()) cout << i.next();
  */
 
+/**
+ * 解题思路:
+ * 再初始化时把所有元素遍历出来, 放入另一个栈中,
+ * 之后就是对另一个栈的操作
+ */
 
 class NestedIterator {
 public:
