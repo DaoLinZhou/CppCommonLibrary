@@ -23,6 +23,7 @@ namespace UF4{
                 parent[i] = i;
                 rank[i] = 1;
             }
+            count = n;
         }
 
         ~UnionFind() {

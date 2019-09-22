@@ -23,6 +23,7 @@ namespace UF3{
                 parent[i] = i;
                 sz[i] = 1;
             }
+            count = n;
         }
 
         ~UnionFind() {

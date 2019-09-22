@@ -17,6 +17,7 @@ namespace UF2 {
     public:
         UnionFind(int n) {
             parent = new int[n];
+            count = n;
             for(int i=0;i < n; i++)
                 parent[i] = i;
         }
