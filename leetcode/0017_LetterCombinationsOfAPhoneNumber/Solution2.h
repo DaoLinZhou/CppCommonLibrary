@@ -32,8 +32,8 @@ private:
         }
         char c = digits[index];
         string letter = digitsToChar[c-'0'];
-        for(int i = 0; i < letter.size(); i++)
-            findCombination(digits, index+1, s + letter[i]);
+        for (char i : letter)
+            findCombination(digits, index+1, s + i);
     }
     vector<string> res;
 
