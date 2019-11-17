@@ -19,6 +19,8 @@
 #include <functional>
 #include <queue>
 #include <stack>
+#include "TreeNode.h"
+#include "ListNode.h"
 
 using namespace std;
 
