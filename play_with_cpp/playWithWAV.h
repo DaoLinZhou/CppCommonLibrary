@@ -29,8 +29,8 @@ pair<int, int> find_subchunk(ifstream& in, const string& name){
 }
 
 void decreaseVolume() {
-    ifstream in("C:\\Users\\46611\\CLionProjects\\homework\\test.wav", ios::binary);
-    ofstream out("C:\\Users\\46611\\CLionProjects\\homework\\test_copy.wav", ios::binary);
+    ifstream in("C:\\Users\\46611\\CLionProjects\\Algorithm\\play_with_cpp\\test.wav", ios::binary);
+    ofstream out("C:\\Users\\46611\\CLionProjects\\Algorithm\\play_with_cpp\\test_copy.wav", ios::binary);
     assert(!in.fail() && !out.fail());
 
     in.unsetf(ios::skipws);
