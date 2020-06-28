@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Algorithm" targetName="Algorithm" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f0d4d26-a02d-4ee5-bcb7-76761a7898b7" name="Default" comment="add some leetcode answer">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avl/AVL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/utils/StringUtils.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0871_MinimumNumberofRefuelingStops/Solution.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c05Pe4YswEmlvaIW2sBM3TEjEa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="subset&#9;FILE&#9;file://C:/Users/46611/CLionProjects/Algorithm/leetcode/0078_Subsets" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\CLionProjects\Algorithm\play_with_cpp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Algorithm" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Algorithm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Application.Algorithm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f0d4d26-a02d-4ee5-bcb7-76761a7898b7" name="Default" comment="" />
+      <created>1559686150876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559686150876</updated>
+      <workItem from="1559686152510" duration="7924000" />
+      <workItem from="1559782009258" duration="10530000" />
+      <workItem from="1559804104397" duration="719000" />
+      <workItem from="1559849622531" duration="6368000" />
+      <workItem from="1559945936677" duration="95000" />
+      <workItem from="1560033812497" duration="2563000" />
+      <workItem from="1560043993594" duration="4756000" />
+      <workItem from="1560133724622" duration="6281000" />
+      <workItem from="1560203134844" duration="3811000" />
+      <workItem from="1560319835655" duration="4225000" />
+      <workItem from="1560364940002" duration="2001000" />
+      <workItem from="1560460305632" duration="6405000" />
+      <workItem from="1560573871088" duration="3835000" />
+      <workItem from="1560578533532" duration="45000" />
+      <workItem from="1560717582971" duration="5815000" />
+      <workItem from="1560808207662" duration="2299000" />
+      <workItem from="1560894616966" duration="3354000" />
+      <workItem from="1560995700114" duration="2445000" />
+      <workItem from="1561051037242" duration="860000" />
+      <workItem from="1561081489678" duration="4213000" />
+      <workItem from="1561096985986" duration="715000" />
+      <workItem from="1561260239250" duration="6783000" />
+      <workItem from="1561346571468" duration="1230000" />
+      <workItem from="1561497768729" duration="1323000" />
+      <workItem from="1561683111544" duration="1586000" />
+      <workItem from="1561783561029" duration="1569000" />
+      <workItem from="1562218458580" duration="5427000" />
+      <workItem from="1562289449928" duration="5479000" />
+      <workItem from="1562362823590" duration="3135000" />
+      <workItem from="1562376048285" duration="8670000" />
+      <workItem from="1562536902016" duration="134000" />
+      <workItem from="1562560787065" duration="1551000" />
+      <workItem from="1562610121451" duration="5678000" />
+      <workItem from="1562721977233" duration="738000" />
+      <workItem from="1562814177591" duration="5410000" />
+      <workItem from="1562879074553" duration="345000" />
+      <workItem from="1562975304850" duration="1278000" />
+      <workItem from="1563232958728" duration="400000" />
+      <workItem from="1563319591251" duration="696000" />
+      <workItem from="1563581837613" duration="612000" />
+      <workItem from="1563738260802" duration="9000" />
+      <workItem from="1563822353183" duration="43000" />
+      <workItem from="1565218446056" duration="613000" />
+      <workItem from="1565293422072" duration="10637000" />
+      <workItem from="1565386684204" duration="4523000" />
+      <workItem from="1565403057927" duration="1933000" />
+      <workItem from="1565413308463" duration="96000" />
+      <workItem from="1565418927772" duration="2936000" />
+      <workItem from="1565482540351" duration="662000" />
+      <workItem from="1565678984674" duration="1003000" />
+      <workItem from="1565722103517" duration="10446000" />
+      <workItem from="1565749378730" duration="1113000" />
+      <workItem from="1565822328454" duration="4451000" />
+      <workItem from="1565900147813" duration="7388000" />
+      <workItem from="1565995481215" duration="4075000" />
+      <workItem from="1566005909042" duration="1793000" />
+      <workItem from="1566069346525" duration="3840000" />
+      <workItem from="1566089217692" duration="10563000" />
+      <workItem from="1566162243774" duration="8757000" />
+      <workItem from="1566285149939" duration="3000" />
+      <workItem from="1566331251585" duration="601000" />
+      <workItem from="1566355895190" duration="5602000" />
+      <workItem from="1566372847617" duration="551000" />
+      <workItem from="1566411135493" duration="2992000" />
+      <workItem from="1566435890443" duration="7238000" />
+      <workItem from="1566457218415" duration="4052000" />
+      <workItem from="1566517737130" duration="678000" />
+      <workItem from="1566601447325" duration="4479000" />
+      <workItem from="1566673145104" duration="1660000" />
+      <workItem from="1566680274941" duration="3246000" />
+      <workItem from="1566697387005" duration="1376000" />
+      <workItem from="1566711330883" duration="6619000" />
+      <workItem from="1566760241920" duration="2572000" />
+      <workItem from="1566766700781" duration="5713000" />
+      <workItem from="1566788155416" duration="605000" />
+      <workItem from="1566797573962" duration="1536000" />
+      <workItem from="1566842718278" duration="1395000" />
+      <workItem from="1566846373087" duration="1460000" />
+      <workItem from="1566940053894" duration="6094000" />
+      <workItem from="1566952262532" duration="903000" />
+      <workItem from="1566968496693" duration="7920000" />
+      <workItem from="1567019004800" duration="3644000" />
+      <workItem from="1567033518723" duration="2987000" />
+      <workItem from="1567208879269" duration="1274000" />
+      <workItem from="1567291554954" duration="1738000" />
+      <workItem from="1567370474044" duration="3408000" />
+      <workItem from="1567411676508" duration="2315000" />
+      <workItem from="1567416045532" duration="621000" />
+      <workItem from="1567457657970" duration="1491000" />
+      <workItem from="1567462256702" duration="4633000" />
+      <workItem from="1567558764831" duration="1735000" />
+      <workItem from="1567564639095" duration="15000" />
+      <workItem from="1567570702548" duration="2214000" />
+      <workItem from="1567574421986" duration="236000" />
+      <workItem from="1567575322572" duration="728000" />
+      <workItem from="1567587570599" duration="692000" />
+      <workItem from="1567588312662" duration="78000" />
+      <workItem from="1567638762161" duration="7609000" />
+      <workItem from="1567650169867" duration="2308000" />
+      <workItem from="1567653872705" duration="78000" />
+      <workItem from="1567665930687" duration="1560000" />
+      <workItem from="1567670960378" duration="1744000" />
+      <workItem from="1567707555382" duration="1565000" />
+      <workItem from="1567733118861" duration="5888000" />
+      <workItem from="1567756288666" duration="1680000" />
+      <workItem from="1567796289206" duration="1028000" />
+      <workItem from="1567818117086" duration="8882000" />
+      <workItem from="1567834821550" duration="1257000" />
+      <workItem from="1567841550895" duration="10000" />
+      <workItem from="1567890609878" duration="3857000" />
+      <workItem from="1567902556224" duration="4797000" />
+      <workItem from="1567913657454" duration="851000" />
+      <workItem from="1567923286001" duration="918000" />
+      <workItem from="1567928891040" duration="3633000" />
+      <workItem from="1567975181595" duration="7385000" />
+      <workItem from="1567986833521" duration="8515000" />
+      <workItem from="1568053575769" duration="2530000" />
+      <workItem from="1568070383842" duration="4032000" />
+      <workItem from="1568101134681" duration="3237000" />
+      <workItem from="1568143154435" duration="353000" />
+      <workItem from="1568162981746" duration="6488000" />
+      <workItem from="1568170030487" duration="23000" />
+      <workItem from="1568176530496" duration="1631000" />
+      <workItem from="1568217693383" duration="4116000" />
+      <workItem from="1568240050092" duration="8098000" />
+      <workItem from="1568269410428" duration="611000" />
+      <workItem from="1568313892742" duration="1225000" />
+      <workItem from="1568338585343" duration="4531000" />
+      <workItem from="1568400294511" duration="1505000" />
+      <workItem from="1568422445783" duration="3995000" />
+      <workItem from="1568432531748" duration="1646000" />
+      <workItem from="1568486263912" duration="3151000" />
+      <workItem from="1568496484897" duration="6060000" />
+      <workItem from="1568514470210" duration="7801000" />
+      <workItem from="1568579157253" duration="8330000" />
+      <workItem from="1568611557964" duration="578000" />
+      <workItem from="1568616972359" duration="10343000" />
+      <workItem from="1568659636911" duration="1266000" />
+      <workItem from="1568672866180" duration="2946000" />
+      <workItem from="1568702127259" duration="4937000" />
+      <workItem from="1568746163979" duration="1483000" />
+      <workItem from="1568770076784" duration="9635000" />
+      <workItem from="1568791272811" duration="1239000" />
+      <workItem from="1568835770614" duration="10124000" />
+      <workItem from="1568945287306" duration="2956000" />
+      <workItem from="1569028977364" duration="4042000" />
+      <workItem from="1569038413055" duration="4322000" />
+      <workItem from="1569089240910" duration="10663000" />
+      <workItem from="1569119233806" duration="10307000" />
+      <workItem from="1569183152394" duration="11072000" />
+      <workItem from="1569279759681" duration="6349000" />
+      <workItem from="1569438621119" duration="12566000" />
+      <workItem from="1569521351624" duration="3445000" />
+      <workItem from="1569529470387" duration="3868000" />
+      <workItem from="1569533827903" duration="3906000" />
+      <workItem from="1569542438556" duration="3936000" />
+      <workItem from="1569549997945" duration="3206000" />
+      <workItem from="1569557394059" duration="1767000" />
+      <workItem from="1569607762739" duration="2741000" />
+      <workItem from="1569651059704" duration="2153000" />
+      <workItem from="1569723697100" duration="6332000" />
+      <workItem from="1569787914208" duration="1776000" />
+      <workItem from="1569812903417" duration="9253000" />
+      <workItem from="1569868973793" duration="22000" />
+      <workItem from="1569907668820" duration="1925000" />
+      <workItem from="1569953556114" duration="3553000" />
+      <workItem from="1569977236106" duration="4402000" />
+      <workItem from="1569987688778" duration="3123000" />
+      <workItem from="1570126819803" duration="1265000" />
+      <workItem from="1570155105681" duration="2702000" />
+      <workItem from="1570233654993" duration="4980000" />
+      <workItem from="1570302815019" duration="6768000" />
+      <workItem from="1570327115982" duration="6300000" />
+      <workItem from="1570401280471" duration="1755000" />
+      <workItem from="1570489398598" duration="3352000" />
+      <workItem from="1570502993459" duration="4257000" />
+      <workItem from="1570517456237" duration="6495000" />
+      <workItem from="1570577446652" duration="3035000" />
+      <workItem from="1570650050836" duration="9299000" />
+      <workItem from="1570732634678" duration="1910000" />
+      <workItem from="1570760523984" duration="11606000" />
+      <workItem from="1570841688335" duration="2091000" />
+      <workItem from="1570909834735" duration="7239000" />
+      <workItem from="1570927818975" duration="10128000" />
+      <workItem from="1570995908294" duration="2645000" />
+      <workItem from="1571015335865" duration="3353000" />
+      <workItem from="1571090657217" duration="1161000" />
+      <workItem from="1571099847285" duration="8000" />
+      <workItem from="1571192612476" duration="1218000" />
+      <workItem from="1571245797692" duration="784000" />
+      <workItem from="1571366201160" duration="2134000" />
+      <workItem from="1571374781553" duration="1019000" />
+      <workItem from="1571552048465" duration="610000" />
+      <workItem from="1571647529412" duration="57000" />
+      <workItem from="1571716578299" duration="4761000" />
+      <workItem from="1571725475322" duration="3519000" />
+      <workItem from="1571730773975" duration="382000" />
+      <workItem from="1571891527684" duration="5938000" />
+      <workItem from="1572123193520" duration="632000" />
+      <workItem from="1572155772349" duration="543000" />
+      <workItem from="1572205689090" duration="18000" />
+      <workItem from="1572226934382" duration="179000" />
+      <workItem from="1572228171169" duration="439000" />
+      <workItem from="1572241409532" duration="6172000" />
+      <workItem from="1572300285399" duration="6655000" />
+      <workItem from="1572324221577" duration="2278000" />
+      <workItem from="1572327798667" duration="381000" />
+      <workItem from="1572373946383" duration="1474000" />
+      <workItem from="1572405766968" duration="4774000" />
+      <workItem from="1572473987544" duration="5031000" />
+      <workItem from="1572655678881" duration="6439000" />
+      <workItem from="1572742831892" duration="6141000" />
+      <workItem from="1572808147373" duration="4886000" />
+      <workItem from="1573024251213" duration="785000" />
+      <workItem from="1573105086248" duration="2432000" />
+      <workItem from="1573279233418" duration="1094000" />
+      <workItem from="1573348842378" duration="6599000" />
+      <workItem from="1573438593278" duration="1232000" />
+      <workItem from="1573516726689" duration="630000" />
+      <workItem from="1573610052197" duration="608000" />
+      <workItem from="1573759676378" duration="1206000" />
+      <workItem from="1573766286980" duration="451000" />
+      <workItem from="1573957703551" duration="5405000" />
+      <workItem from="1574023810380" duration="689000" />
+      <workItem from="1574048766257" duration="3241000" />
+      <workItem from="1574059937674" duration="3392000" />
+      <workItem from="1574065734128" duration="463000" />
+      <workItem from="1574067922303" duration="140000" />
+      <workItem from="1574493927246" duration="2292000" />
+      <workItem from="1574562676393" duration="12359000" />
+      <workItem from="1574625157957" duration="865000" />
+      <workItem from="1574636630249" duration="613000" />
+      <workItem from="1574713830797" duration="7723000" />
+      <workItem from="1574924774972" duration="4820000" />
+      <workItem from="1574970278507" duration="370000" />
+      <workItem from="1575401902260" duration="4533000" />
+      <workItem from="1576375978769" duration="5773000" />
+      <workItem from="1578191054906" duration="160000" />
+      <workItem from="1579220750743" duration="121000" />
+      <workItem from="1579329618970" duration="785000" />
+      <workItem from="1580003659284" duration="6991000" />
+      <workItem from="1584922589864" duration="110000" />
+      <workItem from="1589652649013" duration="428000" />
+      <workItem from="1593242405861" duration="4268000" />
+      <workItem from="1593285200429" duration="12362000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;first commit&quot;">
+      <created>1567587893683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567587893683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;finish Leetcode question #15 3Sum&quot;">
+      <created>1567643275125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567643275125</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;.gitignore&quot;">
+      <created>1567643424331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567643424331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;another solution of leetcode #15&quot;">
+      <created>1567647221349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567647221349</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete main.cpp">
+      <created>1567647459526</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567647459526</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add some leetcode answer">
+      <created>1567734721373</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567734721373</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add some leetcode answer">
+      <created>1567822037025</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567822037025</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add some leetcode answer">
+      <created>1567829984459</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567829984459</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add some leetcode answer">
+      <created>1568000571205</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568000571205</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add some leetcode answer">
+      <created>1568143481161</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568143481161</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add some leetcode answer">
+      <created>1568248042506</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568248042506</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add some leetcode answer">
+      <created>1568490346226</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568490346226</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add some leetcode answer">
+      <created>1568502442947</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568502442947</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add some leetcode answer">
+      <created>1568522642940</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568522642941</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add some leetcode answer">
+      <created>1568660293337</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568660293337</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add some leetcode answer">
+      <created>1568846472930</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568846472930</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add some leetcode answer">
+      <created>1569042139976</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569042139976</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add some leetcode answer&#10;fixed some problems">
+      <created>1569127862206</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569127862206</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add some leetcode answer">
+      <created>1569293889618</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569293889618</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add some leetcode answer">
+      <created>1569526105027</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569526105027</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add some leetcode answer">
+      <created>1569559093364</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1569559093364</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add some leetcode answer">
+      <created>1569820168482</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569820168482</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add some leetcode answer">
+      <created>1569990204738</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569990204738</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add some leetcode answer">
+      <created>1570241445325</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1570241445325</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add some leetcode answer">
+      <created>1570328067075</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1570328067075</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add some leetcode answer">
+      <created>1570506030514</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1570506030514</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add some leetcode answer">
+      <created>1570776776952</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1570776776952</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add some leetcode answer">
+      <created>1570776847966</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1570776847966</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add some leetcode answer">
+      <created>1571897770317</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1571897770317</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add some leetcode answer">
+      <created>1572664157625</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1572664157625</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add some algo">
+      <created>1572816599870</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1572816599870</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add some leetcode answer">
+      <created>1573110617437</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1573110617437</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add some leetcode answer">
+      <created>1573440104055</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1573440104055</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add some leetcode answer">
+      <created>1574024360250</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1574024360250</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add some leetcode answer">
+      <created>1574497929346</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1574497929346</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add some leetcode answer">
+      <created>1574578880420</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1574578880420</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add some leetcode answer">
+      <created>1579330252221</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1579330252221</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;first commit&quot;" />
+    <MESSAGE value="&quot;finish Leetcode question #15 3Sum&quot;" />
+    <MESSAGE value="&quot;.gitignore&quot;" />
+    <MESSAGE value="&quot;another solution of leetcode #15&quot;" />
+    <MESSAGE value="&quot;fix some problems&quot;" />
+    <MESSAGE value="delete main.cpp" />
+    <MESSAGE value="add some leetcode answer&#10;fixed some problems" />
+    <MESSAGE value="add some algo" />
+    <MESSAGE value="add some leetcode answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some leetcode answer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1593304452473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1593304452473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1593304452473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1593304452473">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
+    <state width="721" height="202" key="GridCell.Tab.1.bottom" timestamp="1593301205166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
+    <state width="721" height="202" key="GridCell.Tab.1.center" timestamp="1593301205166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
+    <state width="721" height="202" key="GridCell.Tab.1.left" timestamp="1593301205166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
+    <state width="721" height="202" key="GridCell.Tab.1.right" timestamp="1593301205166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
