@@ -315,9 +315,9 @@ private:
             if (!isRed(node->right) && !isRed(node->right->left))
                 node = moveRedRight(node);
             if (node->key == key) {
-                Node *predecessor = minimum(node->right);
-                node->value = predecessor->value;
-                node->key = predecessor->key;
+                Node *successor = minimum(node->right);
+                node->value = successor->value;
+                node->key = successor->key;
                 node->right = removeMin(node->right);
             } else{
                 node->right = remove(node->right, key);
