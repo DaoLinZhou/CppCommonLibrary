@@ -248,6 +248,7 @@ bool RedBlackTree<Key, Value>::remove(Key key) {
     count --;
 
     // find the real node to remove
+//    Node* toRemove = z->left && z->right ? maximum(z->left) : z;
     Node* toRemove;
     if(z->left == nullptr || z->right == nullptr){
         toRemove = z;
@@ -434,11 +435,12 @@ NodeT<Key, Value>* RedBlackTree<Key, Value>::maximum(Node *node) {
     return maximum(node->right);
 }
 
+// balance the black height of node and sibling(node)
 template<typename Key, typename Value>
 void RedBlackTree<Key, Value>::fixup(Node* node) {
     while(node != root && !isRed(node)){
         if(node->parent->left == node){
-            Node* y = node->parent->right;
+            Node* y = sibling(node);
             if(isRed(y)){
                 y->isBlack = true;
                 y->parent->isBlack = false;
@@ -462,7 +464,7 @@ void RedBlackTree<Key, Value>::fixup(Node* node) {
                 node = root;
             }
         } else {
-            Node* y = node->parent->left;
+            Node* y = sibling(node);
             if(isRed(y)){
                 y->isBlack = true;
                 y->parent->isBlack = false;
