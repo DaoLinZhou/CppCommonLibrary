@@ -133,6 +133,7 @@ RedBlackTree<Key, Value>& RedBlackTree<Key, Value>::operator=(const RedBlackTree
 template<typename Key, typename Value>
 RedBlackTree<Key, Value>::~RedBlackTree() {
     destroy(root);
+    root = nullptr;
 }
 
 
