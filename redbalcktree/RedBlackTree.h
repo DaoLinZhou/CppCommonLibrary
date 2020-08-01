@@ -22,6 +22,7 @@ struct NodeT{
         this->isBlack = false;
     }
 
+    // copy node attribute and set it's parent
     NodeT(NodeT<Key, Value>* parent, NodeT<Key, Value>* node){
         this->key = node->key;
         this->value = node->value;
@@ -55,14 +56,14 @@ public:
     vector<Value> values() const;
     vector<Key> keys() const;
     int size() const;
-    NodeT<Key, Value>* getRoot();
+    NodeT<Key, Value>* getRoot() const;
 
     // test rbTree
     bool isRBTree(){
         bool isBlackBalance = true;
         bool redSeparate = true;
         getBlackHeight(root, isBlackBalance, redSeparate);
-        return isBlackBalance && redSeparate;
+        return isBlackBalance && redSeparate && !isRed(root);
     }
 
     // return the black height of the tree, and test black balance and red separate
@@ -202,7 +203,7 @@ int RedBlackTree<Key, Value>::size() const {
 
 
 template<typename Key, typename Value>
-NodeT<Key, Value>* RedBlackTree<Key, Value>::getRoot() {
+NodeT<Key, Value>* RedBlackTree<Key, Value>::getRoot() const {
     return root;
 }
 
