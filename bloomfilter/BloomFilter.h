@@ -10,7 +10,7 @@
 
 using std::log;
 
-template<typename T>
+template <typename T>
 class BloomFilter{
 private:
     /**
