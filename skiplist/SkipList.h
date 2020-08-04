@@ -31,17 +31,19 @@ class SkipList{
 private:
     int size;
     Node* first;
+    double p; // 添加一层的概率
     const static int MAX_LEVEL;
     int level; // 有效层数
 
 public:
 
-    SkipList(){
+    SkipList(double p = 0.5){
         first = new Node();
         first->nexts = new Node*[MAX_LEVEL];
         for(int i = 0; i < MAX_LEVEL; i++){
             first->nexts[i] = nullptr;
         }
+        this->p = p;
         level = 0;
         size = 0;
     }
@@ -167,7 +169,7 @@ public:
 private:
     int getNodeLevel(){
         int count = 1;
-        while (rand() & 1 && count < MAX_LEVEL){
+        while (rand() <= p*RAND_MAX && count < MAX_LEVEL){
             count++;
         }
         return count;
