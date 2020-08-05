@@ -110,7 +110,7 @@ RedBlackTree<Key, Value>::RedBlackTree() {
 template<typename Key, typename Value>
 RedBlackTree<Key, Value>::RedBlackTree(RedBlackTree<Key, Value> &rbTree) {
     root = nullptr;
-    count = 0;
+    count = rbTree.count;
     if(rbTree.size() > 0){
         root = new Node(nullptr, rbTree.root);
         copy(root, rbTree.root);
@@ -122,7 +122,7 @@ RedBlackTree<Key, Value>& RedBlackTree<Key, Value>::operator=(const RedBlackTree
     if(&rbTree != this){
         destroy(root);
         root = nullptr;
-        count = 0;
+        count = rbTree.count;
         if(rbTree.size() > 0){
             root = new Node(nullptr, rbTree.root);
             copy(root, rbTree.root);

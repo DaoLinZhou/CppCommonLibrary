@@ -38,6 +38,7 @@ private:
 public:
 
     SkipList(double p = 0.5){
+        assert(0 < p && p < 1);
         first = new Node();
         first->nexts = new Node*[MAX_LEVEL];
         for(int i = 0; i < MAX_LEVEL; i++){
@@ -169,7 +170,7 @@ public:
 private:
     int getNodeLevel(){
         int count = 1;
-        while (rand() <= p*RAND_MAX && count < MAX_LEVEL){
+        while (rand() <= p * RAND_MAX && count < MAX_LEVEL){
             count++;
         }
         return count;
