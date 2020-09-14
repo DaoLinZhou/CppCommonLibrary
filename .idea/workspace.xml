@@ -12,9 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f0d4d26-a02d-4ee5-bcb7-76761a7898b7" name="Default" comment="add some leetcode answer">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avl/AVL.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
@@ -45,7 +42,7 @@
       <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/0871_MinimumNumberofRefuelingStops/Solution.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +65,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="subset&#9;FILE&#9;file://C:/Users/46611/CLionProjects/Algorithm/leetcode/0078_Subsets" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/C-Lab-1-master" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\46611\CLionProjects\Algorithm\redbalcktree" />
+      <recent name="C:\Users\46611\CLionProjects\Algorithm" />
       <recent name="C:\Users\46611\CLionProjects\Algorithm\play_with_cpp" />
     </key>
   </component>
@@ -345,14 +346,62 @@
       <workItem from="1584922589864" duration="110000" />
       <workItem from="1589652649013" duration="428000" />
       <workItem from="1593242405861" duration="4268000" />
-      <workItem from="1593285200429" duration="12362000" />
-    </task>
-    <task id="LOCAL-00001" summary="&quot;first commit&quot;">
-      <created>1567587893683</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1567587893683</updated>
+      <workItem from="1593285200429" duration="12409000" />
+      <workItem from="1593405563443" duration="2401000" />
+      <workItem from="1593491625726" duration="4030000" />
+      <workItem from="1593551426434" duration="4694000" />
+      <workItem from="1593587098449" duration="3000" />
+      <workItem from="1593663724555" duration="7604000" />
+      <workItem from="1593681010670" duration="4677000" />
+      <workItem from="1593718141164" duration="11300000" />
+      <workItem from="1593802380318" duration="1428000" />
+      <workItem from="1593904569588" duration="11160000" />
+      <workItem from="1593920575265" duration="1406000" />
+      <workItem from="1593922348684" duration="4555000" />
+      <workItem from="1593977443030" duration="28909000" />
+      <workItem from="1594060643854" duration="4231000" />
+      <workItem from="1594070501625" duration="321000" />
+      <workItem from="1594091293911" duration="5386000" />
+      <workItem from="1594147688146" duration="342000" />
+      <workItem from="1594149108615" duration="6369000" />
+      <workItem from="1594158463620" duration="693000" />
+      <workItem from="1594402131201" duration="695000" />
+      <workItem from="1594676121698" duration="73000" />
+      <workItem from="1594677194404" duration="347000" />
+      <workItem from="1594694014260" duration="375000" />
+      <workItem from="1594782058678" duration="82000" />
+      <workItem from="1594876376305" duration="1957000" />
+      <workItem from="1595007645455" duration="1058000" />
+      <workItem from="1595010870344" duration="57000" />
+      <workItem from="1595226380210" duration="401000" />
+      <workItem from="1595529288180" duration="604000" />
+      <workItem from="1595530002110" duration="803000" />
+      <workItem from="1595536576082" duration="40000" />
+      <workItem from="1595540981429" duration="354000" />
+      <workItem from="1595632962535" duration="1236000" />
+      <workItem from="1595728893878" duration="111000" />
+      <workItem from="1596259036961" duration="5299000" />
+      <workItem from="1596307577949" duration="18387000" />
+      <workItem from="1596392898634" duration="7624000" />
+      <workItem from="1596404457351" duration="9324000" />
+      <workItem from="1596421889439" duration="4105000" />
+      <workItem from="1596511964800" duration="2969000" />
+      <workItem from="1596601512630" duration="1910000" />
+      <workItem from="1596654199214" duration="96000" />
+      <workItem from="1596654525285" duration="1312000" />
+      <workItem from="1596676990216" duration="424000" />
+      <workItem from="1596738673157" duration="426000" />
+      <workItem from="1596740081502" duration="2382000" />
+      <workItem from="1596747634499" duration="691000" />
+      <workItem from="1596757011182" duration="93000" />
+      <workItem from="1596780810760" duration="17000" />
+      <workItem from="1598754411215" duration="3585000" />
+      <workItem from="1598764103926" duration="643000" />
+      <workItem from="1598815095239" duration="17535000" />
+      <workItem from="1598853565713" duration="5642000" />
+      <workItem from="1599161339341" duration="2552000" />
+      <workItem from="1599187094638" duration="3585000" />
+      <workItem from="1599798238372" duration="27000" />
     </task>
     <task id="LOCAL-00002" summary="&quot;finish Leetcode question #15 3Sum&quot;">
       <created>1567643275125</created>
@@ -606,7 +655,98 @@
       <option name="project" value="LOCAL" />
       <updated>1579330252221</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="add some leetcode answer and AVL tree">
+      <created>1593304484091</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1593304484091</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add implementation of Left-Learning Red Black Tree">
+      <created>1593937923247</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1593937923247</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add LLRB">
+      <created>1593938158385</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1593938158385</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add red black tree">
+      <created>1594091935635</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1594091935635</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix bugs">
+      <created>1594097286302</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1594097286302</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix rbtree">
+      <created>1594155659325</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1594155659325</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add BloomFilter">
+      <created>1596314330420</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1596314330420</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add skiplist">
+      <created>1596427191821</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1596427191821</updated>
+    </task>
+    <task id="LOCAL-00046" summary="update skiplist">
+      <created>1596513427951</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1596513427951</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix bugs">
+      <created>1596654285200</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1596654285200</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add some leetcode answer">
+      <created>1598825763595</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1598825763596</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add some leetcode answer">
+      <created>1598837468099</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1598837468099</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add some leetcode answer">
+      <created>1599190882765</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1599190882766</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -642,42 +782,87 @@
     <MESSAGE value="delete main.cpp" />
     <MESSAGE value="add some leetcode answer&#10;fixed some problems" />
     <MESSAGE value="add some algo" />
+    <MESSAGE value="add some leetcode answer and AVL tree" />
+    <MESSAGE value="add implementation of Left-Learning Red Black Tree" />
+    <MESSAGE value="add LLRB" />
+    <MESSAGE value="add red black tree" />
+    <MESSAGE value="fix rbtree" />
+    <MESSAGE value="add BloomFilter" />
+    <MESSAGE value="add skiplist" />
+    <MESSAGE value="update skiplist" />
+    <MESSAGE value="fix bugs" />
     <MESSAGE value="add some leetcode answer" />
     <option name="LAST_COMMIT_MESSAGE" value="add some leetcode answer" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1593304452473">
+    <state x="542" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1598827245815">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
-    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1593304452473">
+    <state x="542" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598827245815" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594159131954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
-    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1593304452473">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594159131954" />
+    <state x="908" y="117" key="#xdebugger.evaluate" timestamp="1596414300900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
-    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1593304452473">
+    <state x="908" y="117" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1596414300900" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599190881529">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593304452473" />
-    <state width="721" height="202" key="GridCell.Tab.1.bottom" timestamp="1593301205166">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599190881529" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599798263669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="202" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
-    <state width="721" height="202" key="GridCell.Tab.1.center" timestamp="1593301205166">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599798263669" />
+    <state width="726" height="122" key="GridCell.Tab.0.bottom" timestamp="1598848025621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="202" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
-    <state width="721" height="202" key="GridCell.Tab.1.left" timestamp="1593301205166">
+    <state width="726" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
+    <state width="726" height="122" key="GridCell.Tab.0.center" timestamp="1598848025621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="202" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
-    <state width="721" height="202" key="GridCell.Tab.1.right" timestamp="1593301205166">
+    <state width="726" height="122" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
+    <state width="726" height="122" key="GridCell.Tab.0.left" timestamp="1598848025621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="721" height="202" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593301205166" />
+    <state width="726" height="122" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
+    <state width="726" height="122" key="GridCell.Tab.0.right" timestamp="1598848025621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="726" height="122" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom" timestamp="1596414717910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
+    <state width="1493" height="203" key="GridCell.Tab.1.center" timestamp="1596414717910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
+    <state width="1493" height="203" key="GridCell.Tab.1.left" timestamp="1596414717910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
+    <state width="1493" height="203" key="GridCell.Tab.1.right" timestamp="1596414717910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1595529415381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595529415381" />
+    <state x="313" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594094713083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="313" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1594094713083" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1594063293532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594063293532" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596309343659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596309343659" />
   </component>
   <component name="masterDetails">
     <states>
