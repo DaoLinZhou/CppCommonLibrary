@@ -2,47 +2,25 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Algorithm" targetName="Algorithm" />
+      <config projectName="CppCommonLibrary" targetName="CppCommonLibrary" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f0d4d26-a02d-4ee5-bcb7-76761a7898b7" name="Default" comment="add some leetcode answer">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algorithm.dir/utils/StringUtils.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kmp/KMP.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0227_BasicCalculatorII/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0268_MissingNumber/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0268_MissingNumber/Solution2.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0563_BinaryTreeTilt/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0746_MinCostClimbingStairs/Solution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/0835_ImageOverlap/Solution.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_performance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main_performance.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1c05Pe4YswEmlvaIW2sBM3TEjEa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,31 +48,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SearchEverywhereHistoryKey" value="subset&#9;FILE&#9;file://C:/Users/46611/CLionProjects/Algorithm/leetcode/0078_Subsets" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/C-Lab-1-master" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cpp_workspace\CppCommonLibrary\leetcode\0268_MissingNumber" />
+      <recent name="D:\Cpp_workspace\CppCommonLibrary\leetcode\0835_ImageOverlap" />
+      <recent name="D:\Cpp_workspace\CppCommonLibrary" />
       <recent name="C:\Users\46611\CLionProjects\Algorithm\redbalcktree" />
       <recent name="C:\Users\46611\CLionProjects\Algorithm" />
-      <recent name="C:\Users\46611\CLionProjects\Algorithm\play_with_cpp" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Algorithm" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Algorithm">
+    <configuration name="CppCommonLibrary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CppCommonLibrary" TARGET_NAME="CppCommonLibrary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CppCommonLibrary" RUN_TARGET_NAME="CppCommonLibrary">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="CMake Application.Algorithm" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -402,6 +384,19 @@
       <workItem from="1599161339341" duration="2552000" />
       <workItem from="1599187094638" duration="3585000" />
       <workItem from="1599798238372" duration="27000" />
+      <workItem from="1656827027374" duration="201000" />
+      <workItem from="1656827278107" duration="3380000" />
+      <workItem from="1656868322451" duration="6439000" />
+      <workItem from="1659141474572" duration="1262000" />
+      <workItem from="1659143631057" duration="330000" />
+      <workItem from="1659153439281" duration="3471000" />
+      <workItem from="1661567297597" duration="1912000" />
+      <workItem from="1661625882631" duration="1463000" />
+      <workItem from="1661657564042" duration="31000" />
+      <workItem from="1661742397972" duration="705000" />
+      <workItem from="1666738668118" duration="690000" />
+      <workItem from="1666745295327" duration="1000" />
+      <workItem from="1666746411705" duration="1000" />
     </task>
     <task id="LOCAL-00002" summary="&quot;finish Leetcode question #15 3Sum&quot;">
       <created>1567643275125</created>
@@ -759,7 +754,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -771,7 +766,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;first commit&quot;" />
@@ -793,76 +787,6 @@
     <MESSAGE value="fix bugs" />
     <MESSAGE value="add some leetcode answer" />
     <option name="LAST_COMMIT_MESSAGE" value="add some leetcode answer" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="542" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1598827245815">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="542" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598827245815" />
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594159131954">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594159131954" />
-    <state x="908" y="117" key="#xdebugger.evaluate" timestamp="1596414300900">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="908" y="117" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1596414300900" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1599190881529">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599190881529" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599798263669">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599798263669" />
-    <state width="726" height="122" key="GridCell.Tab.0.bottom" timestamp="1598848025621">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="726" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
-    <state width="726" height="122" key="GridCell.Tab.0.center" timestamp="1598848025621">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="726" height="122" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
-    <state width="726" height="122" key="GridCell.Tab.0.left" timestamp="1598848025621">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="726" height="122" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
-    <state width="726" height="122" key="GridCell.Tab.0.right" timestamp="1598848025621">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="726" height="122" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598848025621" />
-    <state width="1493" height="203" key="GridCell.Tab.1.bottom" timestamp="1596414717910">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="203" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
-    <state width="1493" height="203" key="GridCell.Tab.1.center" timestamp="1596414717910">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="203" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
-    <state width="1493" height="203" key="GridCell.Tab.1.left" timestamp="1596414717910">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="203" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
-    <state width="1493" height="203" key="GridCell.Tab.1.right" timestamp="1596414717910">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="203" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596414717910" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1595529415381">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595529415381" />
-    <state x="313" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594094713083">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="313" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1594094713083" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1594063293532">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594063293532" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596309343659">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596309343659" />
   </component>
   <component name="masterDetails">
     <states>

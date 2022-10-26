@@ -3,12 +3,12 @@
 #include <vector>
 #include <ctime>
 #include <string>
-#include "wighted-graph\DenseGraph.h"
-#include "wighted-graph\SparseGraph.h"
-#include "wighted-graph\ReadGraph.h"
-#include "wighted-graph\LazyPrimMST.h"
-#include "wighted-graph\PrimMST.h"
-#include "wighted-graph\KruskalMST.h"
+#include "weighted-graph\DenseGraph.h"
+#include "weighted-graph\SparseGraph.h"
+#include "weighted-graph\ReadGraph.h"
+#include "weighted-graph\Minimum-Span-Trees\LazyPrimMST.h"
+#include "weighted-graph\Minimum-Span-Trees\PrimMST.h"
+#include "weighted-graph\Minimum-Span-Trees\KruskalMST.h"
 
 using namespace std;
 
